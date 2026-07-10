@@ -24,20 +24,26 @@ Python-Practice/
 │
 ├── Basics/
 │   └── hello_world.py
+│
+├── OOP/
+│   └── 01_classes_and_instances.py
+│
 └── README.md
 ```
 
 | Folder | Description |
 |--------|-------------|
 | `Basics` | Fundamental Python programs covering the basics of the language. |
+| `OOP` | Programs covering Object-Oriented Programming concepts such as classes, instances, inheritance, and more. |
 
-> More folders and topics will be added as I continue learning Python.
+> More folders, topics, and programs will be added as I continue learning Python.
 
 ---
 
 ## 📖 Topics Covered
 
 - ✅ Basics
+- ✅ Object-Oriented Programming (OOP)
 
 ---
 
@@ -61,6 +67,12 @@ cd Python-Practice
 python Basics/hello_world.py
 ```
 
+or
+
+```bash
+python OOP/01_classes_and_instances.py
+```
+
 > Make sure Python 3 is installed on your system.
 
 ---
@@ -79,6 +91,7 @@ python Basics/hello_world.py
 To develop strong Python fundamentals that will support my journey in:
 
 - Data Structures & Algorithms
+- Object-Oriented Programming
 - Artificial Intelligence & Machine Learning
 - Software Development
 - Backend Development
@@ -87,4 +100,4 @@ To develop strong Python fundamentals that will support my journey in:
 
 ## 📅 Status
 
-🚧 This repository is actively maintained and will continue to grow as I learn new Python concepts.
+🚧 This repository is actively maintained and will continue to grow as I learn new Python concepts and build more practice programs.
